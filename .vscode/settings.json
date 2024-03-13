@@ -1,0 +1,15 @@
+{
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "/Users/diegokusanovic/Desktop/Lenguaje y Paradigmas/graalvm-jdk-21.0.2+13.1/Contents/Home"
+        }
+    ],
+    "graalvm.home": "/Users/diegokusanovic/Desktop/Lenguaje y Paradigmas/graalvm-jdk-21.0.2+13.1/Contents/Home",
+    "graalvm.installations": [
+        "/Users/diegokusanovic/Desktop/Lenguaje y Paradigmas/graalvm-jdk-21.0.2+13.1/Contents/Home"
+    ],
+    "terminal.integrated.env.osx": {
+        "GRAALVM_HOME": "/Users/diegokusanovic/Desktop/Lenguaje y Paradigmas/graalvm-jdk-21.0.2+13.1/Contents/Home"
+    }
+}
